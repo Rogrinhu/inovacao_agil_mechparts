@@ -25,6 +25,8 @@ O seguinte mapa de empatia foi criado para entender melhor as experiências diá
 
 ## Sprint Planning
 
+[Ver Sprint Planning no Jira](https://thcsilva0271.atlassian.net/jira/software/projects/SCRUM/boards/1/timeline?epic=COMPLETE1M&shared=&atlOrigin=eyJpIjoiOTZmOGMxOWM1YWYyNDgzYThiZGE4ZWVhMmFmNmRlOGEiLCJwIjoiaiJ9)
+
 ### Objetivo da Sprint
 **Criar um sistema simples para registrar e organizar serviços de clientes na oficina mecânica.**
 
@@ -54,6 +56,9 @@ O seguinte mapa de empatia foi criado para entender melhor as experiências diá
 | 3 | Finalizar implementação de funcionalidades e adicionar responsividade. |
 | 4 | Realizar testes de integração e correção de bugs. |
 | 5 | Apresentar o protótipo funcional e coletar feedback. |
+
+[Ver Sprint Planning no Jira](https://thcsilva0271.atlassian.net/jira/software/projects/SCRUM/boards/1/timeline?epic=COMPLETE1M&shared=&atlOrigin=eyJpIjoiOTZmOGMxOWM1YWYyNDgzYThiZGE4ZWVhMmFmNmRlOGEiLCJwIjoiaiJ9)
+
 
 ## Protótipo de Solução
 
