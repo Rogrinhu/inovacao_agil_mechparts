@@ -97,12 +97,14 @@ O seguinte mapa de empatia foi criado para entender melhor as experiências diá
 * Botão **[Salvar Serviço]**
 
 ### Fluxo de Uso (roteiro)
-1. Mecânico abre a tela de "serviços em Aberto".
-2. Clica em "Novo Serviço" para registrar um novo serviço.
-3. Preenche os campos solicitados.
-4. Salva o Serviço.
+1. Mecânico realiza o login com seu id e senha.
+2. Na tela "Home" onde são dispostos os serviços abertos.
+3. Na home ele pode escolher entre concluir algum dos serviços em aberto, ver os detalhes de algum serviço ou adicionar um novo serviço.
+4. Na tela de registro de novo serviço ele preenche os campos solicitados e o mesmo já é exibido na home.
 5. O Serviço aparece na lista, organizado por prioridade (alta primeiro) e depois por ordem de abertura.
-6. Quando resolver o problema, clica em "Marcar como Resolvido".
+6. Quando resolver o problema, clica em "Concluir".
+
+[Protótipo Figma](https://www.figma.com/proto/GRZNbtl2JD6A2MoOHig7HK/MechParts?page-id=0%3A1&node-id=7-3&p=f&viewport=-97%2C-103%2C0.56&t=iYSQk4kOrVFaxv2H-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2)
 
 ## Teste e Feedback
 
